@@ -1,0 +1,4 @@
+/node_modules
+/all-product-images
+/data
+*.env
